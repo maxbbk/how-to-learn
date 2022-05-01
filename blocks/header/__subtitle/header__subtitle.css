@@ -1,0 +1,9 @@
+.header__subtitle {
+    position: absolute;
+    bottom: 30px;
+    left: 64px;
+    width: 388px;
+    font: 18px/25px 'Helvetica Neue', 'Arial', sans-serif;
+    color: #000000;
+    margin: 0px;
+  }

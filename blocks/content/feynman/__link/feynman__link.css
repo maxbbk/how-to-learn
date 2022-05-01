@@ -1,0 +1,8 @@
+.feynman__link {
+    position: absolute;
+    top: 50%;
+    right: 48px;
+    font: 36px/51px 'Helvetica Neue', 'Arial', sans-serif;
+    color: #2f80ed;
+    text-decoration: none;
+  }

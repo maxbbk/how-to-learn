@@ -1,0 +1,9 @@
+.section-title {
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    font: 60px/1.15 'Helvetica Neue', 'Arial', sans-serif;
+    font-weight: bold;
+    margin: 0px;
+  
+  }

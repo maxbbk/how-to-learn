@@ -1,0 +1,8 @@
+.video__iframes {
+    padding-top: 50px;
+    margin: 0px;
+  }
+  
+  .video__iframes :nth-of-type(2) {
+    padding-left: 20px;
+  }
