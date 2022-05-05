@@ -6,4 +6,5 @@
     font: 24px/34px 'Helvetica Neue', 'Arial', sans-serif;
     margin: 0px;
     color: black;
+    z-index: 3;
   }
